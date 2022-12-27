@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334726882678",
+    "project_id": "dmitdchat-3b83f",
+    "storage_bucket": "dmitdchat-3b83f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334726882678:android:fb9e2407020d0e22358657",
+        "android_client_info": {
+          "package_name": "com.example.dmitdchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334726882678-67aqr2ej4gs63e7jurfbcpca63rq5e46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2QCTL0iOdT4DiF3renUE81L-b5sdGxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334726882678-67aqr2ej4gs63e7jurfbcpca63rq5e46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
